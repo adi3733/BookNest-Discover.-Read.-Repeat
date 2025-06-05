@@ -19,9 +19,8 @@ A clean and modern Flutter UI for a personalized book library and discovery app.
 
 ## 📸 UI Preview
 
-<img src="https://m.media-amazon.com/images/I/41xTBkCMCZL._SY445_SX342_.jpg" width="180"> &nbsp;
-<img src="https://m.media-amazon.com/images/I/81GI-pqshEL._SY425_.jpg" width="180"> &nbsp;
-<img src="https://m.media-amazon.com/images/I/41HxQfPYJGL._SY445_SX342_.jpg" width="180">
+![Screenshot 2025-06-05 211605](https://github.com/user-attachments/assets/bb76e045-500e-44f6-aa78-0560776af933)
+
 
 ---
 
