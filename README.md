@@ -66,4 +66,4 @@ lib/
 
 **Aditya Ravindra Ghayal**  
 📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-ghayal-7636ba318/)  
-📷 Visit: [Instagram](https://www.instagram.com/adi_.3733) *(Replace with your actual handle)*
+📷 Visit: [Instagram](https://www.instagram.com/adi_.3733) 
